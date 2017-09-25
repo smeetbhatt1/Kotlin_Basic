@@ -13,7 +13,7 @@ fun main(args : Array<String>){
 
 
     //BigInteger is used for numbers that contains more digits.
-   var num = BigInteger("70000 ")
+   var num = BigInteger("70000")
     println(fact(num, BigInteger.ONE))
 }
 
